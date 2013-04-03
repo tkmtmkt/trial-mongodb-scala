@@ -1,4 +1,4 @@
-package home
+package com.github.tkmtmkt.study
 
 import com.novus.salat._
 import com.novus.salat.global._
@@ -27,7 +27,7 @@ object Main extends App
           "address"->"トリストラム"
         )
     )
-    println( count + " 件")
+    println( coll.count() + " 件")
   }
 
   def select {
