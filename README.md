@@ -1,2 +1,2 @@
-study-scala-mongodb
+study-mongodb-scala
 ===================

@@ -1,6 +1,6 @@
 //
 
-name := "study-scala-mongodb"
+name := "study-mongodb-scala"
 
 version := "0.1-SNAPSHOT"
 
