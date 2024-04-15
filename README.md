@@ -1,2 +1,2 @@
-study-mongodb-scala
+trial-mongodb-scala
 ===================
